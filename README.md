@@ -29,3 +29,17 @@ Dashboard para listar e visualizar detalhes das principais criptomoedas usando a
 - Deploy otimizado para Vercel.
 
 ---
+
+
+## Como rodar localmente
+
+### Pré-requisitos
+
+- Node.js versão 20 ou superior  
+- npm ou yarn instalado
+
+### Passos
+
+```bash
+npm install
+npm run dev
